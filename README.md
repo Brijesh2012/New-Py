@@ -1,3 +1,4 @@
 # New-Py
-Table Short./n 
+Table Short.
+<br>
 Author- Brijesh Kumar
